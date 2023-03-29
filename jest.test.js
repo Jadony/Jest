@@ -1,11 +1,3 @@
-/*
- * @Author: 安风 jiadongyao@cai-inc.com
- * @Date: 2023-02-23 22:11:23
- * @LastEditors: 安风 jiadongyao@cai-inc.com
- * @LastEditTime: 2023-02-23 23:04:36
- * @FilePath: /auto-test-jest-demo/jest.test.js
- * @Description:
- */
 // const fns = require('./index');
 // const { ZcyZooTeam, happyDay } = fns;
 // test("测试ZcyZooTeam", () => {

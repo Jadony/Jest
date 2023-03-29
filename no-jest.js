@@ -1,11 +1,3 @@
-/*
- * @Author: 安风 jiadongyao@cai-inc.com
- * @Date: 2023-02-22 23:49:47
- * @LastEditors: 安风 jiadongyao@cai-inc.com
- * @LastEditTime: 2023-03-02 15:45:23
- * @FilePath: /auto-test-jest-demo/no-jest.js
- * @Description: 
- */
 // 不使用自动化测试框架应该如何进行测试？
 const result = ZcyZooTeam('Zero');
 const value = 'ZooTeam';

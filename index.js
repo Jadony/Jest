@@ -1,12 +1,3 @@
-/*
- * @Author: 安风 jiadongyao@cai-inc.com
- * @Date: 2023-02-22 23:47:03
- * @LastEditors: 安风 jiadongyao@cai-inc.com
- * @LastEditTime: 2023-03-02 15:48:46
- * @FilePath: /auto-test-jest-demo/index.js
- * @Description: 
- */
-
 // function ZcyZooTeam(str) {
 //   return 'Zcy' + str;
 // }
